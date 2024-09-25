@@ -53,6 +53,7 @@
 
 
 ## Output:
+![Screenshot 2024-09-25 195946](https://github.com/user-attachments/assets/fe243338-3092-47ef-a09b-3eecd3ce23c4)
 
 
 ### Name: KEERTHANA S
