@@ -65,7 +65,7 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
 
 ## Output:
 ![Screenshot 2024-09-25 195946](https://github.com/user-attachments/assets/fe243338-3092-47ef-a09b-3eecd3ce23c4)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2fce4949-5fa8-4a1c-a2ba-f6de369d203f)
 
 
 ## RESULT:
