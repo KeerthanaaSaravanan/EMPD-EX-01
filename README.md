@@ -1,9 +1,7 @@
-<H1 ALIGN =CENTER>SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM</H1>
+<H1 ALIGN =CENTER>EX. NO.1 SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM</H1>
 <H3>NAME: KEERTHANA S</H3>
 <H3>REGISTER NO.: 212223240070</H3>
-<H3>EX. NO.1</H3>
 <H3>DATE:</H3>
-## DATE: 
 
 ## AIM:
 
@@ -15,11 +13,17 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
 
 ## REQUIREMENTS:
  ●	Mech Analyzer software.
+ 
  ●	Processor: Minimum 1.5 GHz
+ 
  ●	RAM: Minimum 512 MB
+ 
  ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+ 
  ●	Dependencies: Microsoft .Net 2.0 framework
+ 
  ●	Mini Drafter.
+ 
  ●	Geometry instruments.
 
 ## PROCEDURE:
@@ -60,8 +64,7 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
 
 <BR>
 
-
 <BR>
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+ Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
