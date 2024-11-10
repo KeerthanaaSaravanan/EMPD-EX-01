@@ -28,6 +28,7 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
  
  ●	Geometry instruments.
 <BR>
+<BR>
 
 ## PROCEDURE:
   1. Draw a horizontal line AD of length 120 mm.
