@@ -64,8 +64,9 @@ In a four bar chain ABCD, AD is fixed and is 120 mm long. The crank AB is 30 mm 
 
 
 ## Output:
-![Screenshot 2024-09-25 195946](https://github.com/user-attachments/assets/fe243338-3092-47ef-a09b-3eecd3ce23c4)
-![image](https://github.com/user-attachments/assets/2fce4949-5fa8-4a1c-a2ba-f6de369d203f)
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/8c1c5ffc-f181-47b7-8db8-86ac1a5b973d)
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/58cfc864-1eac-4ad8-b15c-478938431e6d)
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/2930a70f-389a-4b6b-be9e-157eb0635ab9)
 
 
 ## RESULT:
